@@ -46,7 +46,7 @@ El análisis funcional del sistema Tunomático permitió identificar los actores
 
 ## 🧩 Justificación Arquitectónica y Patrones Aplicados
 
-###Selección de patrones
+### Selección de patrones
 La arquitectura del sistema Tunomático fue diseñada considerando la reutilización, mantenibilidad y extensibilidad. La selección de los patrones de diseño responde a desafíos clave como la gestión centralizada, la necesidad de clonación eficiente de objetos y la integración con servicios externos de notificación.
 
 ### **1. Singleton (`GestiónDeTurnos`)**
